@@ -65,10 +65,3 @@ This repository includes two major systems:
 | Random Forest    | 97.3%    | 0.163 | 0.083 | 0.026 |
 | Decision Tree    | 94.9%    | 0.227 | 0.105 | 0.051 |
 | Linear Regression| 89.3%    | 0.328 | 0.199 | 0.107 |
-
-## 🧪 Steps to Run
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/crop-recommendation-and-yield-prediction.git
-cd crop-recommendation-and-yield-prediction
